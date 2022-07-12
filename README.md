@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @konstabelpiksel
-- 👀 I’m interested in web development and coding
-- 🌱 I’m currently learning nextjs, strapi
-- 💞️ I’m looking to collaborate on any web dev project
-- 📫 How to reach me konstabelpiksel at gmail dot com
+- 👀 I’m interested in web dev, game dev and coding
+- 🌱 I’m currently doing nextjs, strapi, mongo
 
 <!---
 konstabelpiksel/konstabelpiksel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
